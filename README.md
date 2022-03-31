@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irfanaparveen
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning grapic design
+- 🌱 I’m currently learning UX/UI design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me irfanaparveen2002@gmail.com
 
